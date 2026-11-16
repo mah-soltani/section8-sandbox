@@ -1,0 +1,47 @@
+---
+title: "Section 8: AI Analysis and Verification"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## My question and prompt
+
+Write your question and exact prompt here. Save the prompt as `prompts/01.txt` too.
+
+## Original AI response
+
+Paste the complete response here, including its explanation. Preserve the original code in the chunk below. Commit it before correcting it. This chunk does not execute automatically when knitting; review it, then run it deliberately during the activity.
+
+```{r ai-original, eval=FALSE}
+# Paste the AI's original code here exactly as given.
+```
+
+## Verified analysis
+
+The dataset is beside this Rmd in the main project folder.
+
+```{r verified-analysis}
+d <- read.csv("face.csv")
+# Add your checked analysis here.
+```
+
+## Independent checks
+
+Explain your check, predict its result, and add your code below.
+
+```{r independent-check}
+# Add your independent check here.
+```
+
+## Verification note
+
+1. What I checked:
+2. How I checked independently:
+3. What I found and changed:
+
+## Pair audit
+
+Record your findings from the audit exercise here.
