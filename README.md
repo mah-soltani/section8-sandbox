@@ -1,6 +1,5 @@
 # Section 8: AI Analysis and Verification
 
-POLISCI 150A section practice. This starter is separate from the Section 7 repository.
 
 ## Create your own copy and clone it
 
