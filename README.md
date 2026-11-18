@@ -3,7 +3,7 @@
 
 ## Create your own copy and clone it
 
-1. On the instructor template page, choose **Use this template → Create a new repository**.
+1. On Mahda's template page, choose **Use this template → Create a new repository**.
 2. Set yourself as owner. Name your repository `section8-practice` and choose **Private**.
 3. On your new repository, choose **Code → HTTPS** and copy the URL.
 4. In RStudio, choose **File → New Project → Version Control → Git**. Paste **your own repository URL**, choose a parent folder, and click **Create Project**.
